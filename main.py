@@ -3,7 +3,7 @@
 # Libraries
 
 # Internal
-from utils.configs import parse_args, print_configs, configure
+from Utils.configs import parse_args, print_configs, configure
 
 parse_args()
 print_configs()

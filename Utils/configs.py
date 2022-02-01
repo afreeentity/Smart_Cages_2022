@@ -4,7 +4,7 @@ import sys
 # Libraries
 
 # Internal
-from utils.enums import Environment
+from Utils.enums import Environment
 
 
 # Configuration Variables
